@@ -1,3 +1,7 @@
+# Mine
+.vscode
+chatty.sqlite
+
 # Logs
 logs
 *.log
